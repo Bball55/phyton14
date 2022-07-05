@@ -1,0 +1,12 @@
+print("Hello M6/14")
+print("My name is Thanachot")
+print("My surname is Thongchaareon")
+print("I'm 18 old")
+print("My address is 94/4 Panthong Nonghong Chonburi")
+print("I'm tall 1.77 m.")
+print("I'm student")
+print("I live with my dad and my mom")
+print("My pet is dog")
+print("My phone is Samsung")
+print("My hair is black")
+#ธนโชติ ทองเจริญ เลขที่ 14 ม.6/14
